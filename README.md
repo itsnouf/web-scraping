@@ -41,7 +41,7 @@ We scrape product data from the [ScrapeMe Pokémon Shop](https://scrapeme.live/s
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/pokemon-scraping-project.git]
+git clone [https://github.com/itsnouf/web-scraping/tree/main]
 cd web-scraping
 ```
 
