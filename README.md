@@ -20,7 +20,7 @@ We scrape product data from the [ScrapeMe Pokémon Shop](https://scrapeme.live/s
 
 ```
 📦 pokemon-scraping-project
- ┣ 📜 Week3Task1WebScrapping      # Script for web scraping & saving data
+ ┣ 📜 Week3Task1WebScrapping.py      # Script for web scraping & saving data
  ┣ 📜 EDA.py            # Script for exploratory data analysis
  ┣ 📜 pokemon.csv       # Scraped dataset (exported CSV)
  ┣ 📜 README.md         # Project documentation
